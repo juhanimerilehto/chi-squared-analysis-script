@@ -29,8 +29,8 @@ Chi-Squared Test script. This Python-based tool enables automated analysis of ca
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/juhanimerilehto/chi-squared-script.git
-cd chi-squared-script
+git clone https://github.com/juhanimerilehto/chi-squared-analysis-script.git
+cd chi-squared-analysis-script
 ```
 
 ### 2. Create a virtual environment:
@@ -66,7 +66,7 @@ python chi-squared.py --excel_path "your_data.xlsx" --row_variable "RowVar" --co
 ## File Structure
 
 ```plaintext
-├── chi-squared-script/
+├── chi-squared-analysis-script/
 │   ├── assets/
 │   │   └── likes_str_logo.png
 │   ├── chi-square.py
